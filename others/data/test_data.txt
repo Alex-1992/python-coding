@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html lang="zh-cmn" class="no-js ng-app:App" ng-app="App" id="ng-app">
+
+<head>
+    <meta name="baidu-site-verification" content="uGgzMZ4ZfV" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="keywords" content="陕西宣讲会,西安校园招聘会,就业信息网,宣讲会流程,海投网" />
+    <meta name="description" content="2022年陕西校园招聘宣讲会内容来源于西安重点高校官方就业信息网,方便毕业生快速获取各大高校的官方宣讲会信息,具体宣讲会流程请关注海投网." />
+    <meta itemprop="image" content="//cdn6.haitou.cc/image/logo-320x320.png">
+
+    <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="KyCo4ZokP9uyinbQIKClJYWRAci97kqShHTvq7FafldyaNyq42tGodO_KaVu9u1z_MN4-NCBZ8W3Nrb58A1GYg==">
+    <title>陕西宣讲会-西安校园招聘会-就业信息网-海投网</title>
+
+    <link href="//assets.haitou.cc/6c1cae38/css/bootstrap.css?v=1647240239" rel="stylesheet">
+<link href="//assets.haitou.cc/7b2d86d4/datepicker.css?v=1647929606" rel="stylesheet">
+<link href="//assets.haitou.cc/5d93d5f7/css/icons.css?v=1647240239" rel="stylesheet">
+<!--[if lte IE 8]>
+<link href="//assets.haitou.cc/c6df955e/ie8.css?v=1647240240" rel="stylesheet">
+<![endif]-->
+<link href="//assets.haitou.cc/9f492ece/css/main.css?v=1647240237" rel="stylesheet">
+<link href="//assets.haitou.cc/9f492ece/css/base.css?v=1647240237" rel="stylesheet">
+<link href="//assets.haitou.cc/9f492ece/css/fontstyle.css?v=1647240237" rel="stylesheet">
+<link href="//assets.haitou.cc/9f492ece/css/bootstrap-datetimepicker.css?v=1647240237" rel="stylesheet">
+<link href="//assets.haitou.cc/9f492ece/css/modal.css?v=1647240237" rel="stylesheet">
+<link href="//assets.haitou.cc/9f492ece/css/select2.min.css?v=1647240237" rel="stylesheet">
+<link href="//assets.haitou.cc/9f492ece/css/select2-bootstrap.css?v=1647240237" rel="stylesheet">
+<link href="//assets.haitou.cc/9f492ece/css/select2-haitou.css?v=1647240237" rel="stylesheet">
+<link href="//assets.haitou.cc/9f492ece/css/bootstrap-select.css?v=1647240237" rel="stylesheet">
+<link href="//assets.haitou.cc/50dcc6d0/live.css?v=1647929604" rel="stylesheet">
+<link href="//assets.haitou.cc/743d7a4f/style.css?v=1647240240" rel="stylesheet">
+<link href="//assets.haitou.cc/e16812bd/css/cxxt.css?v=1647929601" rel="stylesheet">
+<link href="//assets.haitou.cc/e16812bd/css/article.css?v=1647929601" rel="stylesheet">
+<link href="//assets.haitou.cc/e16812bd/css/custom-field.css?v=1647929601" rel="stylesheet">
+<link href="//assets.haitou.cc/262b28bf/css/typeahead.min.css?v=1647240241" rel="stylesheet">
+<link href="//assets.haitou.cc/262b28bf/css/typeahead-kv.min.css?v=1647240241" rel="stylesheet">
+<link href="//assets.haitou.cc/1917e530/css/kv-widgets.min.css?v=1647240241" rel="stylesheet">
+<style></style>
+<style>
+.select2-container--open{
+        z-index:9999999         
+}
+.ht-modal-introduction .introduction-input-groups>form>div>span.select2-container {
+    position:static;
+    display: inline-block;
+    width: 308px;
+    height: 44px;
+    line-height: 44px;
+    padding: 1px 34px 0 70px;
+    box-sizing: border-box;
+    background-color: #F1F2F4;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    text-align: right;
+    color: #7A8491;
+}
+.select2-container--default .select2-selection--single {
+    background:transparent;
+    border:none;
+    border-radius:unset;
+    height:44px
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 44px;
+    color: #7A8491;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    display: none;
+}
+</style>
+<script src="//assets.haitou.cc/25792c89/jquery.min.js?v=1647240239"></script>
+<!--[if lte IE 8]>
+<script src="//assets.haitou.cc/c6df955e/html5shiv.js?v=1647240240"></script>
+<![endif]-->
+<!--[if lte IE 8]>
+<script src="//assets.haitou.cc/c6df955e/respond.js?v=1647240240"></script>
+<![endif]-->
+<!--[if lte IE 8]>
+<script src="//assets.haitou.cc/c6df955e/es5-shim.js?v=1647240240"></script>
+<![endif]-->
+<!--[if lte IE 7]>
+<script type="text/javascript" src="//assets.haitou.cc/aee291c1/block-ie.js?v=1647240240"></script>
+<![endif]-->
+<script>var typeahead_7864e59a = {"highlight":true};
+</script>
+    <style>
+    [ng\:cloak],
+    [ng-cloak],
+    [data-ng-cloak],
+    [x-ng-cloak],
+    .ng-cloak,
+    .x-ng-cloak {
+        display: none !important;
+    }
+    </style>
+
+    <script>
+    document.createElement('ng-include');
+    document.createElement('ng-pluralize');
+    document.createElement('ng-view');
+    // Optionally these for CSS
+    document.createElement('ng:include');
+    document.createElement('ng:pluralize');
+    document.createElement('ng:view');
+    </script>
+
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?2010a27ca18ae12b96df00b3e73dd033";
+        hm.setAttribute("async", "async");
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+
+    <script>
+    if (window.location.host.split('.').length === 3) {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        } else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    }
+    </script>
+</head>
+
+<body data-home-url="//home.haitou.cc" data="1648005520">
+        <script>
+    !(function(c, b, d, a) {
+        c[a] || (c[a] = {});
+        c[a].config = {
+            pid: "iayvjx2xbl@2adc6c032cb8ada"
+        };
+        with(b) with(body) with(insertBefore(createElement("script"), firstChild)) setAttribute("crossorigin", "",
+            src = d)
+    })(window, document, "https://retcode.alicdn.com/retcode/bl.js", "__bl");
+    </script>
+            <div id="wrapper" ng-controller="UserManager">
+                <div class="over-scroll">
+            <nav class="navbar navbar-default navbar-static-top" role="navigation">
+                <div class="navbar-content">
+                    <div class="navbar-header">
+                        <span class="navbar-brand">
+                            <a href="//www.haitou.cc" title="海投网">
+                                                                <img src="//cdn6.haitou.cc/image/logo-b.png" alt="海投网">
+                                
+                            </a>
+                        </span>
+                        <div class="dropdown">
+                            <a class="switch-city dropdown-toggle" data-toggle="dropdown"
+                                role="button">陕西<i class="fa icon-ht-arrow-thick-down fa-fw"></i></a>
+                            <div class="dropdown-menu dropdown-menu-ht animated fadeInUp dropdown-city">
+                                                                <a href="/bj"
+                                    data-value="bj">北京</a>
+                                                                <a href="/sh"
+                                    data-value="sh">上海</a>
+                                                                <a href="/gz"
+                                    data-value="gz">广东</a>
+                                                                <a href="/wh"
+                                    data-value="wh">湖北</a>
+                                                                <a href="/xa"
+                                    data-value="xa">陕西</a>
+                                                                <a href="/cd"
+                                    data-value="cd">四川</a>
+                                                                <a href="/nj"
+                                    data-value="nj">江苏</a>
+                                                                <a href="/hf"
+                                    data-value="hf">安徽</a>
+                                                                <a href="/jn"
+                                    data-value="jn">山东</a>
+                                                                <a href="/cs"
+                                    data-value="cs">湖南</a>
+                                                                <a href="/tj"
+                                    data-value="tj">天津</a>
+                                                                <a href="/zz"
+                                    data-value="zz">河南</a>
+                                                                <a href="/hz"
+                                    data-value="hz">浙江</a>
+                                                                <a href="/cq"
+                                    data-value="cq">重庆</a>
+                                                                <a href="/dl"
+                                    data-value="dl">辽宁</a>
+                                                                <a href="/fz"
+                                    data-value="fz">福建</a>
+                                                                <a href="/nc"
+                                    data-value="nc">江西</a>
+                                                                <a href="/cc"
+                                    data-value="cc">吉林</a>
+                                                                <a href="/he"
+                                    data-value="he">黑龙江</a>
+                                                                <a href="/sj"
+                                    data-value="sj">河北</a>
+                                                                <a href="/ty"
+                                    data-value="ty">山西</a>
+                                                                <a href="/yunnanxuanjianghui"
+                                    data-value="km">云南</a>
+                                                                <a href="/gansuxuanjianghui"
+                                    data-value="lz">甘肃</a>
+                                                                <a href="/nn"
+                                    data-value="nn">广西</a>
+                                                                <a href="/gy"
+                                    data-value="gy">贵州</a>
+                                                                <a href="/hk"
+                                    data-value="hk">海南</a>
+                                                                <a href="/yc"
+                                    data-value="yc">宁夏</a>
+                                                                <a href="/xn"
+                                    data-value="xn">青海</a>
+                                                                <a href="/hh"
+                                    data-value="hh">内蒙古</a>
+                                                                <a href="/wl"
+                                    data-value="wl">新疆</a>
+                                                                <a href="/ls"
+                                    data-value="ls">西藏</a>
+                                                            </div>
+                        </div>
+                    </div>
+                    <!-- 顶栏 中间栏 -->
+                    <ul class="navbar-left navbar-main-menu">
+                        <li><a                                 href="//www.haitou.cc">首页</a></li>
+                        <li class="vertical-line-li"></li>
+                        <li class="nav-list-li">
+                            <a                                 href="//xyzp.haitou.cc">校招</a>
+                            <i class="hot-news icon-hot-img"></i>
+                        </li>
+                        <li class="nav-list-li"><a
+                                                                href="https://exam.haitou.cc">海投云笔试</a></li>
+                        <li class="vertical-line-li"></li>
+                        <li class="nav-list-li">
+                            <a class="active"                                href="//xjh.haitou.cc">宣讲会</a>
+                        </li>
+                        <li class="nav-list-li">
+                            <a                                 href="//live.haitou.cc">云宣讲</a>
+                            <i class="hot-news icon-hot-img"></i>
+                        </li>
+                        <li class="vertical-line-li"></li>
+                        <li class="nav-list-li"><a href="//jlcr.haitou.cc">简历超人</a></li>
+                        <li class="nav-list-li slide-expirence">
+                            <a href="#">经验</a>
+                            <i class="slide-icon icon-ht-arrow-thick-down"></i>
+                            <ul class="list-expirence">
+                                <li><a href="//zycp.haitou.cc">职业测评</a></li>
+                                <li><a href="//bszt.haitou.cc">笔试真题</a></li>
+                                <li><a href="//mjfx.haitou.cc">面试经验</a></li>
+                            </ul>
+                        </li>
+                        <li class="vertical-line-li"></li>
+                        <li class="nav-list-li app-download">
+                            <a href="javascript:void(0)">APP下载</a>
+                            <div class="sub-nav-qr-items">
+                                <div class="sanjiao"></div>
+                                <div class="nav-qr-item">
+                                    <img width="70px" height="70px"
+                                        data-original="//cdn7.haitou.cc/4fb5e8ec/image/app-300x300.png?v=2018-03-21"
+                                        class="lazy" src="//cdn7.haitou.cc/4fb5e8ec/image/app-300x300.png?v=2018-03-21"
+                                        style="transition: all 1s ease 0s; opacity: 1;">
+                                    <span class="nav-qr-title">海投APP</span>
+                                </div>
+                                <div class="nav-qr-item">
+                                    <img data-original="//cdn7.haitou.cc/4fb5e8ec/image/wechat-300x300.png" class="lazy"
+                                        src="//cdn7.haitou.cc/4fb5e8ec/image/wechat-300x300.png"
+                                        style="transition: all 1s ease 0s; opacity: 1;">
+                                    <span class="nav-qr-title">微信公众号</span>
+                                </div>
+                                <div class="nav-qr-item">
+                                    <img data-original="//cdn7.haitou.cc/4fb5e8ec/image/xcx.png?v=2018-03-21"
+                                        class="lazy" src="//cdn7.haitou.cc/4fb5e8ec/image/xcx.png?v=2018-03-21"
+                                        style="transition: all 1s ease 0s; opacity: 1;">
+                                    <span class="nav-qr-title">海投小程序</span>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="nav-list-li slide-other">
+                            <a href="#">其他</a>
+                            <i class="slide-icon icon-ht-arrow-thick-down"></i>
+                            <ul class="list-other">
+                                <li><a href="//bgt.haitou.cc">曝光台</a></li>
+                                <!-- <li><a href="//zph.haitou.cc">招聘会</a></li> -->
+                                <!-- <li><a href="//chat.haitou.cc">群聊</a></li> -->
+                            </ul>
+                        </li>
+
+                    </ul>
+
+                    <!-- 顶栏 右栏 -->
+                    <ul class="navbar-right navbar-tool-btn">
+                        <!-- 顶栏 右栏 通知 -->
+                                                <!-- 顶栏 右栏 用户 -->
+                        <li><a href="//company.haitou.cc"><i class="fa fa-ht-building"></i> <span
+                                    class="navbar-tool-btn-span">企业入口</span></a></li>
+                        <li><a href="//www.haitou.cc/help"><i class="fa fa-comment-o"></i> <span
+                                    class="navbar-tool-btn-span">帮助中心</span></a></li>
+                                                <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" role="button"><i
+                                    class="fa fa-ht-user fa-fw"></i> <span class="navbar-tool-btn-span">用户</span> <i
+                                    class="fa fa-angle-down"></i></a>
+                            <ul class="dropdown-menu dropdown-menu-ht dropdown-user animated fadeInUp">
+                                                                <li><a id="navbarloginBtn" data-toggle="modal" data-target="#userModal"
+                                        onclick="modalShow()" role="button"> • 用户登录&nbsp;</a></li>
+                                <li class="notBorder"><a
+                                        href="//www.haitou.cc/user/register?redirect_url=https%3A%2F%2Fxjh.haitou.cc"
+                                        target="_blank"> • 用户注册&nbsp;</a></li>
+                                                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="navbar-right navbar-tool-btn-xzrl">
+
+
+                        <a class="dropdown-toggle" href="https://sxh.haitou.cc/xzrl" target="_blank"> <span
+                                class="navbar-tool-btn-xzrl-span">校招日历</span>
+                        </a>
+
+
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <nav class="navbar-default navbar-static-side" role="navigation">
+            <div class="sidebar-login">
+            <div class="sidebar-user-action">
+                <a class="btn btn-sm btn-success pull-left" href="//www.haitou.cc/user/register?redirect_url=https%3A%2F%2Fxjh.haitou.cc" target="_blank">注&nbsp;&nbsp;册</a>
+                <a id="loginBtn" class="btn btn-sm btn-warning  pull-right" data-toggle="modal" data-target="#userModal" onclick="modalShow()">登&nbsp;&nbsp;录</a>
+            </div>
+        </div>
+        <div class="sidebar-menu">
+        <ul class="list-type-2">
+                                                                    <li><a href="/xa/after" class="active" target=""> • 陕西全部信息</a></li>
+                                                                                    <li><a href="/xa/uni-999/after" class="" target=""> • 官方认证</a></li>
+                                                                                    <li><a href="/xa/uni-27/after" class="" target=""> • 西安交通大学</a></li>
+                                                                                    <li><a href="/xa/uni-28/after" class="" target=""> • 西北工业大学</a></li>
+                                                                                    <li><a href="/xa/uni-26/after" class="" target=""> • 西北大学</a></li>
+                                                                                    <li><a href="/xa/uni-162/after" class="" target=""> • 长安大学</a></li>
+                                                                                    <li><a href="/xa/uni-30/after" class="" target=""> • 西北农林科技大学</a></li>
+                                                                                    <li><a href="/xa/uni-29/after" class="" target=""> • 西安电子科技大学</a></li>
+                                                                                    <li><a href="/xa/uni-31/after" class="" target=""> • 陕西师范大学</a></li>
+                                                                                    <li><a href="/xa/uni-101/after" class="" target=""> • 西安理工大学</a></li>
+                                                                                    <li><a href="/xa/uni-71/after" class="" target=""> • 西安建筑科技大学</a></li>
+                                                                                    <li><a href="/xa/uni-103/after" class="" target=""> • 西安外国语大学</a></li>
+                                                                                    <li><a href="/xa/uni-210/after" class="" target=""> • 西安科技大学</a></li>
+                                                                                    <li><a href="/xa/uni-201/after" class="" target=""> • 陕西科技大学</a></li>
+                                                                                    <li><a href="/xa/uni-142/after" class="" target=""> • 西北政法大学</a></li>
+                                                                                    <li><a href="/xa/uni-200/after" class="" target=""> • 西安工业大学</a></li>
+                                                                                    <li><a href="/xa/uni-102/after" class="" target=""> • 西安工程大学</a></li>
+                                                                                    <li><a href="/xa/uni-113/after" class="" target=""> • 西安财经大学</a></li>
+                                                                                    <li><a href="/xa/uni-244/after" class="" target=""> • 西安邮电大学</a></li>
+                                                                                    <li><a href="/xa/uni-428/after" class="" target=""> • 陕西理工大学</a></li>
+                                    </ul>
+    </div>
+</nav>
+
+<div id="page-wrapper">
+    
+
+<div class="alert-message"></div>
+
+<div class="page-main" data-kind = "after">
+    <data class="hide">
+        <input id="infoPart" type="hidden" value="xa"/>
+        <input id="infoUniv" type="hidden" value=""/>
+    </data>
+    <div class="page-header-right">
+        <!-- <div class="qrcode-title">扫码获取内推</div> -->
+        <div class="qrcode-main">
+            <div class="qrcode">
+                <img src="//assets.haitou.cc/e16812bd/image/qrcode2.png" alt="海投内推" title="内推公众号">
+            </div>
+        </div>
+    </div>
+    <div class="page-header-wrap">
+        <div class="page-header">
+            <h3 class="heading">宣讲会查询系统</h3>
+            <span class="text-ellipsis">全国重点高校就业办官方“就业信息网”的全部宣讲会信息</span>
+        </div>
+        <div class="page-search">
+            <form action="/search" method="get" accept-charset="UTF-8">
+                <div class="input-group">
+                    <div class="search-input input-group-main" style="overflow:visible">
+                        <div><input type="text" id="searchKey" class="form-control" name="key" data-krajee-typeahead="typeahead_7864e59a"></div>                        <span class="icon icon-left"><i class="fa fa-search"></i></span>
+                        <a class="icon icon-right" id="emptyInput" style="display:none;"                           href="/xa/after">
+                            <i class="fa fa-close"></i></a>
+                    </div>
+                                        <input type="hidden" name="zone" value="xa">
+
+                    <span class="input-group-btn">
+                        <button type="button" class="btn btn-default" id="datepicker"><i class="fa fa-calendar"></i>
+                            &nbsp;<span>未举办</span></button>
+                        <button class="btn btn-success" id="searchBtn">搜索宣讲会</button>
+                    </span>
+                </div>
+            </form>
+        </div>
+        <p class="text-ellipsis hot-word-div" id="hotKey">
+            <span class="hot-word hot-word-focus">热门搜索：</span>
+                            <a class="user-hot-word" href="/xa/search-%E5%AF%8C%E5%A3%AB%E5%BA%B7" rel="nofollow">富士康</a>                            <a class="user-hot-word" href="/xa/search-%E4%BC%98%E8%A1%A3%E5%BA%93" rel="nofollow">优衣库</a>                            <a class="hot-word" href="/xa/search-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90" rel="nofollow">数据分析</a>                            <a class="user-hot-word" href="/xa/search-%E6%AD%8C%E5%B0%94%E8%82%A1%E4%BB%BD" rel="nofollow">歌尔股份</a>                            <a class="hot-word" href="/xa/search-%E5%9C%9F%E6%9C%A8" rel="nofollow">土木</a>                            <a class="user-hot-word" href="/xa/search-%E5%8E%A6%E9%97%A8%E7%BF%94%E4%B8%9A" rel="nofollow">厦门翔业</a>                            <a class="user-hot-word" href="/xa/search-%E8%BF%AA%E5%8D%A1%E4%BE%AC" rel="nofollow">迪卡侬</a>                            <a class="user-hot-word" href="/xa/search-%E7%AB%8B%E8%AE%AF%E7%B2%BE%E5%AF%86" rel="nofollow">立讯精密</a>                            <a class="hot-word" href="/xa/search-%E8%81%8C%E8%83%BD" rel="nofollow">职能</a>                            <a class="hot-word" href="/xa/search-%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90" rel="nofollow">人力资源</a>                            <a class="hot-word" href="/xa/search-%E8%88%AA%E7%A9%BA" rel="nofollow">航空</a>                            <a class="hot-word" href="/xa/search-%E6%9C%BA%E6%A2%B0" rel="nofollow">机械</a>                            <a class="hot-word" href="/xa/search-%E9%93%B6%E8%A1%8C" rel="nofollow">银行</a>                            <a class="hot-word" href="/xa/search-%E7%94%B5%E5%AD%90" rel="nofollow">电子</a>                            <a class="hot-word" href="/xa/search-%E8%BD%AF%E4%BB%B6" rel="nofollow">软件</a>                    </p>
+    </div>
+
+    <div style="display: none;height: 137px; width: 100%; margin: 0 -15px "></div>
+    <div class="gg-list-top" style="">
+    <a href="//www.haitou.cc/jump/redirect?url=%2F%2Fwww.haitou.cc%2Fredirect%3Fad_id%3D43145%26url%3Dhttps%253A%252F%252Fmp.weixin.qq.com%252Fs%252FUrFqSrGJj_-BL4wXTaRv0g" target="_Blank" rel="nofollow">
+        <img src="//cdn6.haitou.cc/homepage/1641867427.jpg" class="img-responsive" alt="Image" width="100%">
+    </a>
+</div>            <div class="panel panel-default">
+            <div class="panel-heading" style="border-bottom: 1px solid #ddd;">
+                未举办的宣讲会信息                                    <a href="/xa/myzone"
+                       class="pull-right mycollect" title="点击进入我的收藏" onclick="return checkLogin()">
+                        <i class="text-warning fa fa-star"></i> 收藏列表
+                    </a>
+                            </div>
+
+            <div class="panel-body remove padding top bottom">
+                <div id="w0" class="grid-view"><table class="table cxxt-table"><thead>
+<tr><th width="15">收藏</th><th width="65%">公司标题</th><th width="180">举办时间</th><th width="35%">举办地点</th><th class="xjh-posttime" width="138">发布时间</th><th width="65">点击量</th><th width="62">操作</th></tr>
+</thead>
+<tbody>
+<tr data-key="1255539" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><span class="badge badge-success" title="该信息已被官方认证" data-toggle="tooltip">官</span><span class="badge badge-warning badge-yellow" title="该宣讲会为云宣讲" data-toggle="tooltip">云宣讲</span><a href="/article/1255539.html" title="明阳智慧能源集团股份公司
+学校：海投网
+地点：云宣讲" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">明阳智慧能源集团股份公司</div><span>海投网</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 18:30</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="云宣讲">云宣讲</span></td><td class="cxxt-time">2022-03-12 10:47</td><td class="cxxt-clicks">20923</td><td class="text-center cxxt-option"><a href="/article/1255539.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1260539" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><span class="badge badge-success" title="该信息已被官方认证" data-toggle="tooltip">官</span><span class="badge badge-warning badge-yellow" title="该宣讲会为云宣讲" data-toggle="tooltip">云宣讲</span><a href="/article/1260539.html" title="华人运通2022全球校园招聘（高合汽车）
+学校：海投网
+地点：云宣讲" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">华人运通控股(上海)有限公司</div><span>海投网</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 19:00</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="云宣讲">云宣讲</span></td><td class="cxxt-time">2022-03-22 00:00</td><td class="cxxt-clicks">2894</td><td class="text-center cxxt-option"><a href="/article/1260539.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1255424" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><span class="badge badge-success" title="该信息已被官方认证" data-toggle="tooltip">官</span><span class="badge badge-warning badge-yellow" title="该宣讲会为云宣讲" data-toggle="tooltip">云宣讲</span><a href="/article/1255424.html" title="中国平安财产保险股份有限公司广东分公司
+学校：海投网
+地点：云宣讲" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">中国平安财产保险股份有限公司广东分公司</div><span>海投网</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-24 16:00</span> &nbsp<span class="hold-ms datetime text-success">(明天)</span></td><td class="text-ellipsis"><span title="云宣讲">云宣讲</span></td><td class="cxxt-time">2022-03-11 17:50</td><td class="cxxt-clicks">6875</td><td class="text-center cxxt-option"><a href="/article/1255424.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1246186" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1246186.html" title="中国能源建设集团浙江火电建设有限公司
+学校：西安电子科技大学
+地点：南校区海棠八号楼2楼" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">中国能源建设集团浙江火电建设有限公司</div><span>西电</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 10:00</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="南校区海棠八号楼2楼">南校区海棠八号楼2楼</span></td><td class="cxxt-time">2022-03-02 11:04</td><td class="cxxt-clicks">493</td><td class="text-center cxxt-option"><a href="/article/1246186.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1252541" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1252541.html" title="麒盛科技股份有限公司
+学校：西安工业大学
+地点：线上宣讲" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">麒盛科技股份有限公司</div><span>西安工大</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 10:00</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="线上宣讲">线上宣讲</span></td><td class="cxxt-time">2022-03-09 09:16</td><td class="cxxt-clicks">610</td><td class="text-center cxxt-option"><a href="/article/1252541.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1248605" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1248605.html" title="上海新时达电气股份有限公司
+学校：西安电子科技大学
+地点：北校区阶梯教室608" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">上海新时达电气股份有限公司</div><span>西电</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 14:00</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="北校区阶梯教室608">北校区阶梯教室608</span></td><td class="cxxt-time">2022-03-04 08:51</td><td class="cxxt-clicks">415</td><td class="text-center cxxt-option"><a href="/article/1248605.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1247535" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1247535.html" title="深圳基本半导体有限公司
+学校：西安电子科技大学
+地点：北校区阶梯教室605" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">深圳基本半导体有限公司</div><span>西电</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 14:00</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="北校区阶梯教室605">北校区阶梯教室605</span></td><td class="cxxt-time">2022-03-03 10:18</td><td class="cxxt-clicks">347</td><td class="text-center cxxt-option"><a href="/article/1247535.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1258632" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1258632.html" title="海信集团有限公司
+学校：长安大学
+地点：网络专场招聘会" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">海信集团有限公司</div><span>长大</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 14:00</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="网络专场招聘会">网络专场招聘会</span></td><td class="cxxt-time">2022-03-17 21:27</td><td class="cxxt-clicks">382</td><td class="text-center cxxt-option"><a href="/article/1258632.html" target="_blank">网申</a></td></tr>
+<tr data-key="1243571" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1243571.html" title="网易(杭州)网络有限公司
+学校：西安电子科技大学
+地点：南校区E楼1区105" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">网易(杭州)网络有限公司</div><span>西电</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 14:00</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="南校区E楼1区105">南校区E楼1区105</span></td><td class="cxxt-time">2022-02-28 09:19</td><td class="cxxt-clicks">478</td><td class="text-center cxxt-option"><a href="/article/1243571.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1247734" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1247734.html" title="江苏中设集团股份有限公司
+学校：长安大学
+地点：南校区北院信息发布室一" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">江苏中设集团股份有限公司</div><span>长大</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 14:30</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="南校区北院信息发布室一">南校区北院信息发布室一</span></td><td class="cxxt-time">2022-03-03 11:39</td><td class="cxxt-clicks">234</td><td class="text-center cxxt-option"><a href="/article/1247734.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1250455" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1250455.html" title="深圳市赢合科技股份有限公司
+学校：陕西科技大学
+地点：线下校园招聘宣讲厅(教四C607)" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">深圳市赢合科技股份有限公司</div><span>陕科大</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 14:30</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="线下校园招聘宣讲厅(教四C607)">线下校园招聘宣讲厅(教四C607)</span></td><td class="cxxt-time">2022-03-07 09:57</td><td class="cxxt-clicks">421</td><td class="text-center cxxt-option"><a href="/article/1250455.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1247446" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1247446.html" title="淮河能源控股集团有限责任公司
+学校：西安科技大学
+地点：信息发布室二" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">淮河能源控股集团有限责任公司</div><span>西科大</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 14:30</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="信息发布室二">信息发布室二</span></td><td class="cxxt-time">2022-03-03 09:52</td><td class="cxxt-clicks">610</td><td class="text-center cxxt-option"><a href="/article/1247446.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1249048" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1249048.html" title="东富龙科技集团股份有限公司
+学校：西安电子科技大学
+地点：南校区海棠九号楼2楼" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">东富龙科技集团股份有限公司</div><span>西电</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 15:00</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="南校区海棠九号楼2楼">南校区海棠九号楼2楼</span></td><td class="cxxt-time">2022-03-04 11:38</td><td class="cxxt-clicks">364</td><td class="text-center cxxt-option"><a href="/article/1249048.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1248628" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1248628.html" title="广东九联科技股份有限公司
+学校：西安电子科技大学
+地点：南校区海棠八号楼2楼" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">广东九联科技股份有限公司</div><span>西电</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 15:00</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="南校区海棠八号楼2楼">南校区海棠八号楼2楼</span></td><td class="cxxt-time">2022-03-04 08:59</td><td class="cxxt-clicks">373</td><td class="text-center cxxt-option"><a href="/article/1248628.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1258501" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1258501.html" title="三棵树涂料股份有限公司
+学校：长安大学
+地点：网络专场招聘会" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">三棵树涂料股份有限公司</div><span>长大</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 16:00</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="网络专场招聘会">网络专场招聘会</span></td><td class="cxxt-time">2022-03-17 16:29</td><td class="cxxt-clicks">224</td><td class="text-center cxxt-option"><a href="/article/1258501.html" target="_blank">网申</a></td></tr>
+<tr data-key="1259136" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1259136.html" title="三棵树涂料股份有限公司
+学校：陕西科技大学
+地点：线上宣讲" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">三棵树涂料股份有限公司</div><span>陕科大</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 16:00</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="线上宣讲">线上宣讲</span></td><td class="cxxt-time">2022-03-18 16:23</td><td class="cxxt-clicks">306</td><td class="text-center cxxt-option"><a href="/article/1259136.html" target="_blank">网申</a></td></tr>
+<tr data-key="1249701" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1249701.html" title="联化科技股份有限公司
+学校：西安科技大学
+地点：12号教学楼321室" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">联化科技股份有限公司</div><span>西科大</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 16:00</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="12号教学楼321室">12号教学楼321室</span></td><td class="cxxt-time">2022-03-04 17:27</td><td class="cxxt-clicks">533</td><td class="text-center cxxt-option"><a href="/article/1249701.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1249076" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1249076.html" title="北汽福田汽车股份有限公司
+学校：西安外国语大学
+地点：线上宣讲" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">北汽福田汽车股份有限公司</div><span>西外</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 16:00</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="线上宣讲">线上宣讲</span></td><td class="cxxt-time">2022-03-04 11:53</td><td class="cxxt-clicks">233</td><td class="text-center cxxt-option"><a href="/article/1249076.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1254618" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1254618.html" title="华勤技术股份有限公司
+学校：陕西科技大学
+地点：线下校园招聘宣讲厅(教四C609)" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">华勤技术股份有限公司</div><span>陕科大</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 16:30</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="线下校园招聘宣讲厅(教四C609)">线下校园招聘宣讲厅(教四C609)</span></td><td class="cxxt-time">2022-03-10 21:10</td><td class="cxxt-clicks">283</td><td class="text-center cxxt-option"><a href="/article/1254618.html" target="_blank">网申</a></td></tr>
+<tr data-key="1259327" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1259327.html" title="中建新疆建工(集团)有限公司
+学校：长安大学
+地点：网络专场招聘会" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">中建新疆建工(集团)有限公司</div><span>长大</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 17:00</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="网络专场招聘会">网络专场招聘会</span></td><td class="cxxt-time">2022-03-18 23:07</td><td class="cxxt-clicks">218</td><td class="text-center cxxt-option"><a href="/article/1259327.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1260697" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><a href="/article/1260697.html" title="摩根士丹利信息技术部2022暑期实习 3月23日 18:00空宣
+学校：西安交通大学
+地点：线上宣讲" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">摩根士丹利信息技术部实习</div><span>交大</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 18:00</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="线上宣讲">线上宣讲</span></td><td class="cxxt-time">2022-03-22 16:17</td><td class="cxxt-clicks">530</td><td class="text-center cxxt-option"><a href="/article/1260697.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1255539" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><span class="badge badge-success" title="该信息已被官方认证" data-toggle="tooltip">官</span><span class="badge badge-warning badge-yellow" title="该宣讲会为云宣讲" data-toggle="tooltip">云宣讲</span><a href="/article/1255539.html" title="明阳智慧能源集团股份公司
+学校：海投网
+地点：云宣讲" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">明阳智慧能源集团股份公司</div><span>海投网</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 18:30</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="云宣讲">云宣讲</span></td><td class="cxxt-time">2022-03-12 10:47</td><td class="cxxt-clicks">20923</td><td class="text-center cxxt-option"><a href="/article/1255539.html" target="_blank">投简历</a></td></tr>
+<tr data-key="1260539" data-source="xjh"><td class="cxxt-save"><i class="fa fa-lg text-warning cxxt-save-icon fa-star-o"></i></td><td class="cxxt-title"><span class="badge badge-success" title="该信息已被官方认证" data-toggle="tooltip">官</span><span class="badge badge-warning badge-yellow" title="该宣讲会为云宣讲" data-toggle="tooltip">云宣讲</span><a href="/article/1260539.html" title="华人运通2022全球校园招聘（高合汽车）
+学校：海投网
+地点：云宣讲" target="_blank"><div class="text-success company pull-left" style="max-width: 80%;">华人运通控股(上海)有限公司</div><span>海投网</span></a></td><td class="text-left cxxt-holdtime"><span class="hold-ymd">2022-03-23 19:00</span> &nbsp<span class="hold-ms datetime text-warning">(今天)</span></td><td class="text-ellipsis"><span title="云宣讲">云宣讲</span></td><td class="cxxt-time">2022-03-22 00:00</td><td class="cxxt-clicks">2894</td><td class="text-center cxxt-option"><a href="/article/1260539.html" target="_blank">投简历</a></td></tr>
+</tbody></table>
+<div class="pull-left summary-wrapper">以上数据为系统自动获取，如有变更请以来源网站为准。</div>
+<ul class="pagination pull-right" title="键盘左右键可翻页" data-toggle="tooltip"><li class="first disabled"><span>&laquo;</span></li>
+<li class="prev disabled"><span>&lsaquo;</span></li>
+<li class="active"><a href="/xa/after" data-page="0">1</a></li>
+<li><a href="/xa/after/page-2" data-page="1">2</a></li>
+<li><a href="/xa/after/page-3" data-page="2">3</a></li>
+<li><a href="/xa/after/page-4" data-page="3">4</a></li>
+<li><a href="/xa/after/page-5" data-page="4">5</a></li>
+<li class="next"><a href="/xa/after/page-2" data-page="1">&rsaquo;</a></li></ul></div>            </div>
+        </div>
+        <div class="row bottom-gg">
+                                <div class="col-xs-3 bottom-gg-cell">
+                <a href="//www.haitou.cc/redirect?ad_id=43984&url=https%3A%2F%2Fxyzp.haitou.cc%2Farticle%2F2425591.html" target="_blank" rel="nofollow">
+                    <img src="//cdn6.haitou.cc/homepage/1646883661.png" alt="亚信科技2022校园招聘"></a>
+                <div class="banner-title"><a href="//www.haitou.cc/redirect?ad_id=43984&url=https%3A%2F%2Fxyzp.haitou.cc%2Farticle%2F2425591.html" target="_blank"
+                                             rel="nofollow">亚信科技2022校园招聘</a></div>
+            </div>
+                                <div class="col-xs-3 bottom-gg-cell">
+                <a href="//www.haitou.cc/redirect?ad_id=1027&url=http%3A%2F%2Fxyzp.haitou.cc" target="_blank" rel="nofollow">
+                    <img src="//cdn6.haitou.cc/homepage/1566959787.png" alt="海量信息 在线网申"></a>
+                <div class="banner-title"><a href="//www.haitou.cc/redirect?ad_id=1027&url=http%3A%2F%2Fxyzp.haitou.cc" target="_blank"
+                                             rel="nofollow">海量信息 在线网申</a></div>
+            </div>
+                                <div class="col-xs-3 bottom-gg-cell">
+                <a href="//www.haitou.cc/redirect?ad_id=1026&url=http%3A%2F%2Fjl.haitou.cc" target="_blank" rel="nofollow">
+                    <img src="//cdn6.haitou.cc/homepage/1566959862.png" alt="完善简历做offer收割机"></a>
+                <div class="banner-title"><a href="//www.haitou.cc/redirect?ad_id=1026&url=http%3A%2F%2Fjl.haitou.cc" target="_blank"
+                                             rel="nofollow">完善简历做offer收割机</a></div>
+            </div>
+                                <div class="col-xs-3 bottom-gg-cell">
+                <a href="//www.haitou.cc/redirect?ad_id=1025&url=http%3A%2F%2Fmjfx.haitou.cc" target="_blank" rel="nofollow">
+                    <img src="//cdn6.haitou.cc/homepage/1566959891.png" alt="上帝视角带你玩转面试"></a>
+                <div class="banner-title"><a href="//www.haitou.cc/redirect?ad_id=1025&url=http%3A%2F%2Fmjfx.haitou.cc" target="_blank"
+                                             rel="nofollow">上帝视角带你玩转面试</a></div>
+            </div>
+            </div>
+</div>
+    <div class="footer">
+    <p class="copy">&copy; Copyright 2022. 武汉鸣鸾信息科技有限公司
+        <a class="copy-link" href="http://beian.miit.gov.cn/" target="_blank"
+           rel="nofollow">鄂ICP备13001186号-1</a>
+        <a class="copy-link" href="//www.haitou.cc/system/disclaimer" rel="nofollow" target="_blank">免责声明</a>
+        <a class="btn btn-success" href="//www.haitou.cc/help"
+           target="_blank"><i class="fa icon-ht-service"></i> 帮助中心</a>
+    </p>
+    </div>    </div>
+
+        
+    <div class="modal fade in" id="userModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <!-- 验证码登录-->
+        <div class="ht-modal code-login">
+            <div class="ht-modal-header">
+                <span class="btn-close icon-ht-close-hick" data-dismiss="modal" aria-hidden="true"></span>
+                <div class="modal-header-title">
+                    <h3>验证码登录</h3>
+                </div>
+                <div class="modal-header-msg">
+                    <p>海投网，大学生求职搜索引擎</p>
+                </div>
+            </div>
+            <div class="ht-modal-body">
+                <div class="modal-body-inputs">
+                    <div class="inputs-phone-code">
+                        <input type="text" maxLength="11" oninput="this.value = this.value.trim()" name="code-login-phone" id="code-login-phone" placeholder="请输入手机号">
+                        <label for="" id="code-login-phone">请输入正确的手机号码</label>
+                    </div>
+                    <!-- 图形验证码 -->
+                    <div class="code-login-imgcode">
+                        <input type="text" placeholder="请输入图形验证码" onclick="" id="code-login-input">
+                        <img src="/system/captcha" alt="海投网" onclick="this.src='/system/captcha?'+Math.random();">
+                        <label for="code-login-input"></label>
+                    </div>
+                    <div class="inputs-numcode-code">
+                        <input type="text" name="code-login-code" id="code-login-code" placeholder="请输入验证码">
+                        <label for="code-login-code">输入验证码</label>
+                        <input type="button" name="code-login-getbtn" value="点击获取" class="btn-code">
+                    </div>
+                    <div class="inputs-login-now">
+                        <input type="button" name="login-now" value="快速登录" class="login-now-btn">
+                    </div>
+                    <p class="bottom-msg">未注册海投网账号的手机号，登录时将自动注册</p>
+                    <p class="bottom-msg">登录即视为同意《<span onClick="window.open('//www.haitou.cc/user/protocol')" class="bottom-msgServe" style="color:#3388ff;cursor:pointer">服务协议</span>》及《<span onClick="window.open('//www.haitou.cc/user/privacy')" class="bottom-msgProtect" style="color:#3388ff;cursor:pointer">隐私保护</span>》</p>
+                </div>
+            </div>
+            <div class="ht-modal-footer">
+                <div class="to-login-wechat">
+                    <span class="icon-ht-weixin-circle"></span>
+                    <a href="javascript:;" class="wechat-btn">微信登录</a>
+                </div>
+                <div class="to-login-account">
+                    <span></span>
+                    <a href="javascript:;">账号登录</a>
+                </div>
+                <div class="to-register-now">
+                    <a href="//www.haitou.cc/user/register?redirect_url=https%3A%2F%2Fxjh.haitou.cc">立即注册</a>
+                    <i class="icon-ht-arrow-thick-right"></i>
+                </div>
+            </div>
+        </div>
+
+        <!-- 账号登录 -->
+        <div class="ht-modal account-login">
+            <div class="ht-modal-header">
+                <span class="btn-close icon-ht-close-hick" data-dismiss="modal" aria-hidden="true"></span>
+                <div class="modal-header-title">
+                    <h3>账号登录</h3>
+                </div>
+                <div class="modal-header-msg">
+                    <p>海投网，大学生求职搜索引擎</p>
+                </div>
+            </div>
+            <div class="ht-modal-body">
+                <div class="modal-body-inputs">
+                    <div class="inputs-phone-account">
+                        <input type="text" name="account-login-phone"
+                               oninput="this.value = this.value.trim()" id="account-login-phone" placeholder="请输入手机号 / 邮箱">
+                        <label for="" id="account-login-phone">请输入正确的手机号码</label>
+                    </div>
+                    <div class="inputs-password-account">
+                        <input type="password" name="account-login-psd" id="account-login-psd" placeholder="请输入密码">
+                        <label for="account-login-psd">请输入密码</label>
+                    </div>
+                    <div class="inputs-login">
+                        <input type="button" name="login" value="登录">
+                    </div>
+                    <div class="inputs-forgetpsd">
+                        <a href="//www.haitou.cc/user/find-password?redirect_url=https%3A%2F%2Fxjh.haitou.cc" target="_blank">忘记密码？</a>
+                    </div>
+                    <p class="bottom-msg">登录即视为同意《<span onClick="window.open('//www.haitou.cc/user/protocol')" class="bottom-msgServe" style="color:#3388ff;cursor:pointer">服务协议</span>》及《<span onClick="window.open('//www.haitou.cc/user/privacy')" class="bottom-msgProtect" style="color:#3388ff;cursor:pointer">隐私保护</span>》</p>
+                </div>
+            </div>
+            <div class="ht-modal-footer">
+                <div class="to-login-wechat">
+                    <span class="icon-ht-weixin-circle"></span>
+                    <a href="javascript:;" class="wechat-btn">微信登录</a>
+                </div>
+                <div class="to-login-numcode">
+                    <span></span>
+                    <a href="javascript:;">验证码登录</a>
+                </div>
+                <div class="to-register-now">
+                    <a href="//www.haitou.cc/user/register?redirect_url=https%3A%2F%2Fxjh.haitou.cc">立即注册</a>
+                    <i class="icon-ht-arrow-thick-right"></i>
+                </div>
+            </div>
+        </div>
+
+        <!-- 微信登录 -->
+        <div class="ht-modal qrcode-login">
+            <div class="ht-modal-header">
+                <span class="btn-close icon-ht-close-hick" data-dismiss="modal" aria-hidden="true"></span>
+                <div class="modal-header-title">
+                    <h3>微信登录</h3>
+                </div>
+                <input type="hidden" id="wechat_reg" data-scene="">
+                <div class="modal-header-msg">
+                    <p>海投网，大学生求职搜索引擎</p>
+                </div>
+            </div>
+            <div class="ht-modal-body body-qrcode">
+                <div class="wechat-qrcode">
+                    <img alt="">
+                    <div class="failed-mask">
+                        <span class="btn-refresh icon-repeat"></span>
+                        <span class="failed-msg">二维码失效，点击刷新</span>
+                    </div>
+                </div>
+                <div class="wechat-msg">
+                    <span class="icon-ht-weixin-circle"></span>
+                    <span>微信"扫一扫"登录</span>
+                </div>
+                <p style="text-align: center" class="bottom-msg">登录即视为同意《<span onClick="window.open('//www.haitou.cc/user/protocol')" class="bottom-msgServe" style="color:#3388ff;cursor:pointer">服务协议</span>》及《<span onClick="window.open('//www.haitou.cc/user/privacy')" class="bottom-msgProtect" style="color:#3388ff;cursor:pointer">隐私保护</span>》</p>
+            </div>
+            <div class="ht-modal-footer">
+                <div class="to-login-numcode">
+                    <a href="javascript:;">验证码登录</a>
+                </div>
+                <div class="to-login-account">
+                    <span></span>
+                    <a href="javascript:;">账号登录</a>
+                </div>
+                <div class="to-register-now">
+                    <a href="//www.haitou.cc/user/register">立即注册</a>
+                    <i class="icon-ht-arrow-thick-right"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade in" id="infoModal" role="dialog" aria-hidden="true">
+        <!-- 完善信息页面 -->
+        <div class="ht-modal-introduction">
+            <div class="introduction-body-content">
+                <span class="btn-close icon-ht-close-hick" data-dismiss="modal" aria-hidden="true"></span>
+                <div class="introduction-content-title">
+                    <h3>Hi,做个自我介绍吧</h3>
+                    <p>让HR快速了解你</p>
+                </div>
+                <div class="introduction-input-groups">
+                    <form name="user-info">
+                        <div id="realname">
+                            <span>姓名</span>
+                            <input type="text" name="name" maxLength="24" oninput="this.value = this.value"  value="" placeholder="请填写真实姓名，只有一次修改机会">
+                            <label for="realname"></label>
+                        </div>
+                        <div id="gender">
+                            <span>性别</span>
+                            <input type="text" name="sex" readonly="readonly" class="dropdown-toggle text-ellipsis"  data-toggle="dropdown" aria-expanded="false" id="gender-choose" value="">
+                            <i></i>
+                            <label for="gender-choose"></label>
+                            <div class="dropdown-menu poli_box" role="menu">
+                                <ul id="gender-list">
+                                    <li data=1>男</li>
+                                    <li data=2>女</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div id="cities">
+                            <span>意向城市</span>
+                            <input type="text" name="cities" readonly="readonly" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true" data-stopPropagation="true" id="cities-choose" placeholder="请选择城市" value="">
+                            <i></i>
+                            <label for="cities-choose"></label>
+                            <div class="cities-box dropdown-menu poli_box animated fadeIn" role="menu">
+                                <div class="cities-box-select">
+                                    <span class="cities-box-select-label">已选择 0/3</span>
+                                </div>
+                                <div class="cities-box-list">
+                                    <div class="cities-box-list-left"></div>
+                                    <div class="cities-box-list-right"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="school" class="dropdown btn-group">
+                            <span>毕业院校</span>
+                            <i></i>
+                            <select class="form-control  no-border" id="school-choose">
+                                                            </select>
+                        </div>
+                        <div id="major">
+                            <span>专业类别</span>
+                            <input type="text" name="major" readonly="readonly" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true" data-stopPropagation="true" id="major-choose" value="">
+                            <i></i>
+                            <label for="major-choose"></label>
+                            <div class="major-box dropdown-menu poli_box animated fadeIn" role="menu">
+                                <div class="major-box-list"></div>
+                            </div>
+                        </div>
+                        <div id="highest-eduction">
+                            <span>最高学历</span>
+                            <input type="text" name="degree" readonly="readonly" class=" dropdown-toggle text-ellipsis" data-toggle="dropdown" value="" id="high-edu">
+                            <i></i>
+                            <label for="high-edu"></label>
+                            <div class="dropdown-menu poli_box animated fadeIn" role="menu">
+                                <ul id="edu-list">
+                                    <!-- <li data=1>中专</li>
+                                    <li data=3>双学位</li> -->
+                                    <li data=6>博士</li>
+                                    <li data=5>硕士</li>
+                                    <li data=4>本科</li>
+                                    <li data=2>大专</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div id="graduated-year">
+                            <span>毕业年份</span>
+                            <input type="text" class="graduate-time" id="datetimepicker" readonly value="2022" data-toggle="dropdown"/>
+                            <i></i>
+                        </div>
+                        <div id="email">
+                            <span>邮箱</span>
+                            <input type="text" name="" oninput="this.value = this.value.trim()" placeholder="用于接受HR反馈，请谨慎填写" id="email-input" value="">
+                            <label for="email-input"></label>
+                        </div>
+                        <div id="phone">
+                            <span>手机</span>
+                            <input type="text" name="phone" oninput="this.value = this.value.trim()" maxLength="11" placeholder="用于接受HR反馈，请谨慎填写" id="phone-input" value="">
+                            <label for="phone-input"></label>
+                        </div>
+                        <div id="finish">
+                            <input type="button" name="" value="完成">
+                        </div>
+                    </form>
+                </div>
+                <div class="major-box dpn">
+                    <div class="major-box-list">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="global-alert alert alert-dismissable animated fadeInDown">
+            <button class="close" aria-hidden="true" data-dismiss="alert" type="button">×</button>
+            <span></span>
+        </div>
+            </div>
+    <script src="//assets.haitou.cc/7b2d86d4/datepicker.js?v=1647929606"></script>
+<script src="//assets.haitou.cc/5fd42bfd/outer.js?v=1647240240"></script>
+<script src="//assets.haitou.cc/2bfb6018/yii.js?v=1611306273"></script>
+<script src="//assets.haitou.cc/2ce2dfd9/js/bootstrap.js?v=1611306276"></script>
+<script src="//assets.haitou.cc/d655dcdf/angular.min.js?v=1647240239"></script>
+<script src="//assets.haitou.cc/d655dcdf/angular-route.min.js?v=1647240239"></script>
+<script src="//assets.haitou.cc/d655dcdf/angular-sanitize.min.js?v=1647240239"></script>
+<script src="//assets.haitou.cc/d655dcdf/angular-animate.min.js?v=1647240239"></script>
+<script src="//assets.haitou.cc/9f492ece/js/jquery.cookie.js?v=1647240237"></script>
+<script src="//assets.haitou.cc/9f492ece/js/md5.js?v=1647240237"></script>
+<script src="//assets.haitou.cc/9f492ece/js/md5-ex.js?v=1647240237"></script>
+<script src="//assets.haitou.cc/9f492ece/js/base.js?v=1647240237"></script>
+<script src="//assets.haitou.cc/9f492ece/js/init.js?v=1647240237"></script>
+<script src="//assets.haitou.cc/9f492ece/js/login-modal.js?v=1647240237"></script>
+<script src="//assets.haitou.cc/9f492ece/js/bootstrap-datetimepicker.js?v=1647240237"></script>
+<script src="//assets.haitou.cc/9f492ece/js/bootstrap-datetimepicker.zh-CN.js?v=1647240237"></script>
+<script src="//assets.haitou.cc/9f492ece/js/bootstrap-typeahead.js?v=1647240237"></script>
+<script src="//assets.haitou.cc/9f492ece/js/email-autofill.js?v=1647240237"></script>
+<script src="//assets.haitou.cc/9f492ece/js/perfect-info.js?v=1647240237"></script>
+<script src="//assets.haitou.cc/9f492ece/js/select2.min.js?v=1647240237"></script>
+<script src="//assets.haitou.cc/9f492ece/js/bootstrap-select.js?v=1647240237"></script>
+<script src="//assets.haitou.cc/e16812bd/js/cxxt.js?v=1647929601"></script>
+<script src="//assets.haitou.cc/e16812bd/js/custom-field.js?v=1647929601"></script>
+<script src="//assets.haitou.cc/e16812bd/js/qrcode.min.js?v=1647929601"></script>
+<script src="//assets.haitou.cc/e16812bd/js/postRecommend.js?v=1647929601"></script>
+<script src="//assets.haitou.cc/262b28bf/js/typeahead.bundle.min.js?v=1647240241"></script>
+<script src="//assets.haitou.cc/262b28bf/js/typeahead-kv.min.js?v=1647240241"></script>
+<script src="//assets.haitou.cc/262b28bf/js/handlebars.min.js?v=1647240241"></script>
+<script src="//assets.haitou.cc/1917e530/js/kv-widgets.min.js?v=1647240241"></script>
+<script src="//assets.haitou.cc/2bfb6018/yii.gridView.js?v=1611306273"></script>
+<script>jQuery(function ($) {
+var searchkey_data_1 = new Bloodhound({"datumTokenizer":Bloodhound.tokenizers.whitespace,"queryTokenizer":Bloodhound.tokenizers.whitespace,"remote":{"url":"/system/suggest?q=%QUERY","wildcard":"%QUERY"}});
+kvInitTA('searchKey', typeahead_7864e59a, [{"display":"text","limit":10,"name":"searchkey_data_1","source":searchkey_data_1.ttAdapter()}]);
+jQuery('#w0').yiiGridView({"filterUrl":"\/xa\/after","filterSelector":"#w0-filters input, #w0-filters select"});
+    if($('.cxxt-table tbody tr:first').attr('data-last') != '1') {
+        $('tr[data-last=1]:first').before('<tr><td colspan="7" style="border: none;padding: 0;background: #F6F6F7;height: 40px;vertical-align: middle;padding-left: 20px;font-family: PingFangSC-Medium;font-size: 16px;color: #363951;letter-spacing: 0;">更多往期宣讲会</td></tr>');
+    }
+    console.log("//api.haitou.cc/common/college-search")
+
+    $('#school-choose').select2({
+        language: "zh-CN",
+        placeholder: '请输入学校名称',
+        ajax: {
+        url: "//api.haitou.cc/common/college-search",
+        dataType: 'json',
+        delay: 250,
+        data: function (params) {
+            return {
+                search: params.term,
+            };
+        },
+        processResults: function (data) {
+            console.log(data);
+            return {
+            results: data
+            }
+        },
+        cache: true
+    },
+    escapeMarkup: function (markup) { return markup; }, // let our custom formatter work
+    // minimumInputLength: 1,
+    // templateResult: formatCompany,
+    // templateSelection: formatCompanySelection
+   })
+
+});</script>        <div style="display:none;">
+    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5006844'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/stat.php%3Fid%3D5006844' type='text/javascript'%3E%3C/script%3E"));</script>
+    <script>
+        (function(b,a,e,h,f,c,g,s){b[h]=b[h]||function(){(b[h].c=b[h].c||[]).push(arguments)};
+            b[h].s=!!c;g=a.getElementsByTagName(e)[0];s=a.createElement(e);
+            s.src="//s.union.360.cn/"+f+".js";s.defer=!0;s.async=!0;g.parentNode.insertBefore(s,g)
+        })(window,document,"script","_qha",393344,false);
+    </script>
+</div>
+</body>
+
+</html>
+
